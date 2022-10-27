@@ -68,10 +68,10 @@
 		517F46892909713400BD9DF1 /* GoodNewsRx */ = {
 			isa = PBXGroup;
 			children = (
-				517F46AD290A938E00BD9DF1 /* Extensions */,
 				517F46A5290977F700BD9DF1 /* NewsTableViewController.swift */,
 				517F46AC2909818000BD9DF1 /* Cells */,
 				517F46A729097E8600BD9DF1 /* Models */,
+				517F46AD290A938E00BD9DF1 /* Extensions */,
 				517F468A2909713400BD9DF1 /* AppDelegate.swift */,
 				517F468C2909713400BD9DF1 /* SceneDelegate.swift */,
 				517F46902909713400BD9DF1 /* Main.storyboard */,
